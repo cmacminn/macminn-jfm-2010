@@ -1,6 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+------------------------------------------------------
 CWM, 2014-06-04
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+------------------------------------------------------
 
 This is a stand-alone suite of MATLAB functions that implement the analytical solution to a nonlinear, hyperbolic PDE as described in [MacMinn, Szulczewski, and Juanes, JFM 2010](http://dx.doi.org/10.1017/S0022112010003319 "MacMinn et al., JFM 2010").
 
